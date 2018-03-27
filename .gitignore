@@ -1,0 +1,14 @@
+/vendor
+/.idea
+.idea/
+Homestead.json
+Homestead.yaml
+.env
+/docker
+docker-compose.yml
+nbproject/
+/nbproject
+node_modules/
+/node_modules
+package-lock.json
+/.project
